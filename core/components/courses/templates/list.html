@@ -21,6 +21,12 @@
                         </summary>
                     </p>
                 </div>
+                <div class="item item-text-wrap"><h4>{{'mm.core.teacherfullname' | translate}}</h4></div>
+                <div class="item item-text-wrap">
+                    <p ng-repeat="teacherinfo in course.teachers" title="{{teacherinfo.fullname}}">
+                        {{teacherinfo.fullname}}
+                    </p>
+                </div>
                 <div class="item tabs tabs-icon-left" ng-show="course._handlers.length">
                     <a ng-repeat="handler in course._handlers | orderBy:'-priority'" ng-controller="handler.controller" ng-click="action($event, course)" class="tab-item active" title="{{title | translate}}">
                         <i class="icon {{icon}}"></i> {{title | translate}}

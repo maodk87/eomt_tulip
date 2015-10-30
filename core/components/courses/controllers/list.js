@@ -29,6 +29,7 @@ angular.module('mm.core.courses')
             $scope.courses = courses;
             angular.forEach(courses, function(course) {
                 course._handlers = $mmCoursesDelegate.getNavHandlersFor(course.id, refresh);
+                course.teachers = $mmCoursesDelegate.getTeachers(course.teachers, refresh);
             });
             $scope.filterText = ''; // Filter value MUST be set after courses are shown.
         }, function(error) {

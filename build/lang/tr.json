@@ -358,6 +358,8 @@
     "mm.user.roles": "Roller",
     "mm.user.student": "Öğrenci",
     "mm.user.webpage": "Web sayfası",
+    "mma.calendar.noevents": "Hiç bildiriminiz yok",
+    "mma.calendar.notifications": "Bildirimler",
     "mma.coursecompletion.complete": "Tamamlanmış",
     "mma.coursecompletion.completed": "Tamamlandı",
     "mma.coursecompletion.coursecompletion": "Kurs tamamlama",
@@ -462,7 +464,5 @@
     "mma.notes.sitenotes": "Site notları",
     "mma.notifications.notifications": "Bildirimler",
     "mma.notifications.therearentnotificationsyet": "Hiç bildiriminiz yok",
-    "mma.participants.participants": "Katılımcılar",
-    "mma.calendar.noevents": "Hiç bildiriminiz yok",
-    "mma.calendar.notifications": "Bildirimler"
+    "mma.participants.participants": "Katılımcılar"
 }

@@ -2,6 +2,7 @@
     "mm.core.allparticipants": "All participants",
     "mm.core.android": "Android",
     "mm.core.sitename": " Tulip Preschools",
+    "mm.core.teacherfullname": "Teachers:",
     "mm.core.areyousure": "Are you sure?",
     "mm.core.cancel": "Cancel",
     "mm.core.cannotconnect": "Cannot connect: Verify that you have typed correctly the URL and that your site uses Moodle 2.4 or later.",

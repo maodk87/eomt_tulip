@@ -94,6 +94,24 @@ angular.module('mm.core.courses')
             return coursesHandlers[courseId];
         };
 
+        self.getTeachers = function(teacherinfostr, refresh) {
+            if (!teacherinfostr || teacherinfostr.length === 0 ) {
+                return [];
+            }
+            
+            var aryteacherinforesult = [];
+            var aryteachers = teacherinfostr.split('##');
+            angular.forEach(aryteachers, function(teacheritemstr, indexid) {
+                var aryteacherinfo = teacheritemstr.split('::');
+                if(angular.isDefined(aryteacherinfo[0])&&angular.isDefined(aryteacherinfo[1])){
+                    var teacherinfo = [];
+                    teacherinfo['id']=aryteacherinfo[0];
+                    teacherinfo['fullname']=aryteacherinfo[1];
+                    aryteacherinforesult[indexid] = teacherinfo;
+                }
+            });
+            return aryteacherinforesult;
+        };
         /**
          * Update the handler for the current site.
          *
