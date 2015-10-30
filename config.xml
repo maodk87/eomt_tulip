@@ -21,6 +21,7 @@
 
     <gap:platform name="ios" />
     <gap:platform name="android" />
+    <gap:platform name="winphone" />
 
     <access origin="*" />
     <access origin="tel:*" launch-external="yes" />
@@ -54,6 +55,10 @@
     <preference name="AndroidPersistentFileLocation"    value="Compatibility" />
     <preference name="iosPersistentFileLocation"        value="Compatibility" />
 
+    <icon src="icon.png" gap:platform="winphone" />
+    <icon src="splash.png" gap:platform="winphone" gap:role="background" />
+
+    
     <icon src="icon.png" />
     <icon src="resources/android/icon/icon-36-ldpi.png"       gap:platform="android"    gap:density="ldpi" />
     <icon src="resources/android/icon/icon-48-mdpi.png"       gap:platform="android"    gap:density="mdpi" />
