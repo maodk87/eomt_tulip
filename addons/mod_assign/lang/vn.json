@@ -1,0 +1,11 @@
+{
+    "addsubmission": "Thêm bài làm",
+    "allowsubmissionsfromdate": "Cho phép làm bài từ",
+    "attemptnumber": "Số lần làm bài",
+    "cutoffdate": "Rút ngắn ngày",
+    "duedate": "Hạn nộp bài",
+    "duedateno": "Không có hạn nộp bài",
+    "submissions": "Bài làm",
+    "userwithid": "Người dùng có ID {{id}}",
+    "viewsubmission": "Xem bài làm"
+}

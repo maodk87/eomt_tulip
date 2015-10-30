@@ -1,0 +1,19 @@
+{
+    "cannotsubmit": "Xin lỗi, có vấn đề xảy ra khi bạn nộp bài, vui lòng thử lại lần nữa.",
+    "choiceoptions": "Các tùy chọn",
+    "errorgetchoice": "Lỗi chọn dữ liệu.",
+    "expired": "Xin lỗi, hoạt động này đã đóng vào {{$a}}",
+    "full": "(Đã đầy)",
+    "noresultsviewable": "Chưa xem được kết quả.",
+    "notopenyet": "Xin lỗi, hoạt động này chỉ sẵn sàng từ {{$a}}",
+    "numberofuser": "Số lượng thành viên",
+    "numberofuserinpercentage": "Tỷ lệ tham gia",
+    "previewonly": "This is just a preview of the available options for this activity. You will not be able to submit your choice until {{$a}}.",
+    "removemychoice": "Bỏ lựa chọn của tôi đi",
+    "responses": "Đáp án",
+    "responsesresultgraphdescription": "{{number}}% thành viên chọn: {{text}}.",
+    "responsesresultgraphheader": "Hiển thị biểu đồ",
+    "savemychoice": "Lưu lựa chọn của tôi lại",
+    "userchoosethisoption": "Những thành viên chọn phương án này",
+    "yourselection": "Lựa chọn của bạn"
+}

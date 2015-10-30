@@ -1,0 +1,14 @@
+{
+    "beep": "Beep",
+    "currentusers": "Thành viên hiện tại",
+    "enterchat": "Click vào đây để chat",
+    "entermessage": "Đánh nội dung vào đây",
+    "messagebeepsyou": "{{$a}} vừa gọi bạn!",
+    "messageenter": "{{$a}} vừa vào phòng chat",
+    "messageexit": "{{$a}} vừa rời phòng chat",
+    "mustbeonlinetosendmessages": "Bạn phải online thì mới gửi được tin nhắn",
+    "nomessages": "Chưa có tin nhắn nào",
+    "send": "Gửi",
+    "sessionstart": "Phiên chat tiếp theo sẽ bắt đầu vào {{$a}}",
+    "talk": "Nói chuyện"
+}

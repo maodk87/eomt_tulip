@@ -1,0 +1,20 @@
+{
+    "address": "Địa chỉ",
+    "city": "Thành phố",
+    "contact": "Liên lạc",
+    "country": "Quốc gia",
+    "description": "Mô tả",
+    "details": "Chi tiết",
+    "detailsnotavailable": "Thông tin chi tiết của người dùng này không có sẵn cho bạn",
+    "editingteacher": "Thầy cô giáo",
+    "email": "Email",
+    "interests": "Sở thích",
+    "invaliduser": "Người dùng chưa hợp lệ.",
+    "manager": "Quản lý",
+    "phone1": "Điện thoại bàn",
+    "phone2": "Điện thoại di động",
+    "roles": "Vai trò",
+    "student": "Học sinh",
+    "teacher": "Trợ giảng",
+    "webpage": "Trang web"
+}

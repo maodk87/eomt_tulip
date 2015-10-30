@@ -1,0 +1,20 @@
+{
+    "addanewdiscussion": "Thêm bài viết mới",
+    "cannotadddiscussion": "Thêm thảo luận vào diễn đàn.",
+    "cannotadddiscussionall": "Bạn không có quyền thêm chủ đề thảo luận mới cho các thành viên.",
+    "cannotcreatediscussion": "Không thể tạo thảo luận mới",
+    "couldnotadd": "Không thể thêm bài viết của bạn",
+    "discussionsubscription": "Theo dõi thảo luận",
+    "erroremptymessage": "Tin nhắn đưa lên không được rỗng",
+    "erroremptysubject": "Tiêu đề không được rỗng",
+    "errorgetforum": "Lỗi lấy dữ liệu diễn đàn.",
+    "errorgetgroups": "Lỗi thiết lập nhóm.",
+    "forumnodiscussionsyet": "Chưa có bài viết nào.",
+    "group": "Nhóm",
+    "message": "Tin nhắn",
+    "numdiscussions": "{{numdiscussions}} bài viết",
+    "numreplies": "{{numreplies}} trả lời",
+    "posttoforum": "Đưa lên diễn đàn",
+    "reply": "Trả lời",
+    "subject": "Tiêu đề"
+}

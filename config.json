@@ -1,0 +1,12 @@
+{
+    "app_id" : "com.eomt",
+    "versioncode" : "2015",
+    "versionname" : "1.4",
+    "cache_expiration_time" : 300000,
+    "default_lang" : "vn",
+    "languages": {"vn": "Vietnam","en": "English"},
+    "wsservice" : "moodle_mobile_app",
+    "wsextservice" : "local_mobile",
+    "demo_sites": {"student": {"url": "http://elearning.omt.vn", "username": "student", "password": "moodle"}, "teacher": {"url": "http://elearning.omt.vn", "username": "teacher", "password": "moodle"}, "cva": {"url": "http://elearning.omt.vn", "username": "student", "password": "student"}},
+    "gcmpn": "694767596569"
+}
