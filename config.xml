@@ -5,10 +5,10 @@
         id        = "com.eomt.tuplip"
         versionCode = "2015"
         version   = "1.4">
-    <name>EOMT</name>
+    <name>EOMT Tulip</name>
 
     <description>
-        EOMT official app
+       EOMT mobile app using in Tulip Preschools
     </description>
 
     <author href="http://omt.vn" email="eomt_app@omt.vn">
