@@ -449,7 +449,6 @@
     "mma.mod_choice.savemychoice": "Guardar mi elección",
     "mma.mod_choice.userchoosethisoption": "El usuario elegió esta opción",
     "mma.mod_choice.yourselection": "Su elección",
-    "mma.mod_folder.emptyfilelist": "No hay archivos que mostrar",
     "mma.mod_forum.addanewdiscussion": "Añadir un nuevo tema de discusión",
     "mma.mod_forum.cannotadddiscussion": "Para añadir debates a este foro hay que ser miembro de un grupo.",
     "mma.mod_forum.cannotadddiscussionall": "No tiene permiso para añadir un nuevo tema de discusión para todos los participantes.",
@@ -481,5 +480,6 @@
     "mma.notes.sitenotes": "Notas del sitio",
     "mma.notifications.notifications": "Notificaciones",
     "mma.notifications.therearentnotificationsyet": "No hay notificaciones",
-    "mma.participants.participants": "Participantes"
+    "mma.participants.participants": "Participantes",
+    "mma.mod_folder.emptyfilelist": "No hay archivos que mostrar"
 }
