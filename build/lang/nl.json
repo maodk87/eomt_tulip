@@ -575,8 +575,6 @@
     "mma.mod_label.label": "Label",
     "mma.mod_label.taptoview": "Tik om label te zien.",
     "mma.mod_page.errorwhileloadingthepage": "Fout bij het laden van de pagina-inhoud.",
-    "mma.mod_resource.errorwhileloadingthecontent": "Fout bij het laden van de inhoud.",
-    "mma.mod_resource.openthefile": "Open het bestand",
     "mma.mod_survey.clicktocontinue": "Klik hier om door te gaan",
     "mma.mod_survey.ifoundthat": "Ik vond dat",
     "mma.mod_survey.ipreferthat": "Mijn voorkeur zou zijn",
@@ -593,8 +591,10 @@
     "mma.notes.personalnotes": "Persoonlijke notities",
     "mma.notes.publishstate": "Context",
     "mma.notes.sitenotes": "Site notities",
+    "mma.mod_resource.errorwhileloadingthecontent": "Fout bij het laden van de inhoud.",
+    "mma.mod_resource.openthefile": "Open het bestand",
+    "mma.participants.participants": "Deelnemers",
     "mma.notifications.errorgetnotifications": "Fout bij het ophalen van notificaties",
     "mma.notifications.notifications": "Meldingen",
-    "mma.notifications.therearentnotificationsyet": "Er zijn geen meldingen",
-    "mma.participants.participants": "Deelnemers"
+    "mma.notifications.therearentnotificationsyet": "Er zijn geen meldingen"
 }

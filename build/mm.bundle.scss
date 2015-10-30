@@ -318,16 +318,6 @@ $bar-side-menu-text-color: $bar-content-text !default;
   top: $bar-side-menu-height;
 }
 
-input.mma-files-picker {
-  position: absolute;
-  top: 0;
-  right: 0;
-  min-width: 100%;
-  min-height: 100%;
-  opacity: 0;
-  outline: none;
-}
-
 /* - User grades table (most of it extracted from MM1)
 -------------------------------------------------------------------------- */
 .mma-grades-table {
@@ -526,21 +516,6 @@ $mma-chat-notice-badge: "stable" !default;
     height: 200px;
     resize: none;
 }
-
-.mma-imscp-container {
-    display: flex;
-    flex-flow: column;
-    height: 100%;
-}
-
-.mma-imscp-iframe-container {
-    flex: 1 1 auto;
-    position: relative;
-    .iframe-wrapper {
-      position: absolute;
-    }
-}
-
 .mma-mod_survey-darkbg {
   background-color: $item-divider-bg;
 }
@@ -563,4 +538,29 @@ select.mma-mod_survey-select {
   .mma-mod_survey-defaultoption {
     display: none;
   }
+}
+
+
+.mma-imscp-container {
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+}
+
+.mma-imscp-iframe-container {
+    flex: 1 1 auto;
+    position: relative;
+    .iframe-wrapper {
+      position: absolute;
+    }
+}
+
+input.mma-files-picker {
+  position: absolute;
+  top: 0;
+  right: 0;
+  min-width: 100%;
+  min-height: 100%;
+  opacity: 0;
+  outline: none;
 }
