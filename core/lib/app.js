@@ -36,7 +36,7 @@ angular.module('mm.core')
 .provider('$mmApp', function($stateProvider) {
 
     /** Define the app storage schema. */
-    var DBNAME = 'EOMT',
+    var DBNAME = 'EOMT_TULIP',
         dbschema = {
             stores: []
         },
