@@ -585,8 +585,8 @@
     "mma.notes.personalnotes": "Personliga anteckningar",
     "mma.notes.publishstate": "Sammanhang",
     "mma.notes.sitenotes": "Webbplats anteckningar",
-    "mma.participants.participants": "Deltagare",
     "mma.notifications.errorgetnotifications": "Fel att få meddelanden",
     "mma.notifications.notifications": "Meddelanden",
-    "mma.notifications.therearentnotificationsyet": "Det finns inga meddelanden"
+    "mma.notifications.therearentnotificationsyet": "Det finns inga meddelanden",
+    "mma.participants.participants": "Deltagare"
 }

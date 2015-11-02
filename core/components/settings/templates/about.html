@@ -4,13 +4,13 @@
             <li class="item">
                 <h2>{{appname}}</h2>
             </li>
-            <li class="item item-divider">
+            <!-- <li class="item item-divider">
                 <p>{{ 'mm.settings.license' | translate }}</p>
             </li>
             <li class="item item-text-wrap">
                 <h2>Apache 2.0</h2>
                 <p><a href="http://www.apache.org/licenses/LICENSE-2.0" mm-browser>http://www.apache.org/licenses/LICENSE-2.0</a></p>
-            </li>
+            </li>-->
             <li class="item item-divider">
                 <p>{{ 'mm.settings.deviceinfo' | translate }}</p>
             </li>
@@ -22,26 +22,26 @@
                 <p class="item-heading">{{ 'mm.settings.versioncode' | translate}}</p>
                 <p>{{ versioncode }}</p>
             </li>
-            <li class="item item-text-wrap" ng-if="navigator && navigator.userAgent">
+           <!-- <li class="item item-text-wrap" ng-if="navigator && navigator.userAgent">
                 <p class="item-heading">{{ 'mm.settings.navigatoruseragent' | translate}}</p>
                 <p>{{ navigator.userAgent }}</p>
-            </li>
+            </li> -->
             <li class="item item-text-wrap" ng-if="navigator && navigator.language">
                 <p class="item-heading">{{ 'mm.settings.navigatorlanguage' | translate}}</p>
                 <p>{{ navigator.language }}</p>
             </li>
-            <li class="item item-text-wrap" ng-if="locationhref">
+            <!-- <li class="item item-text-wrap" ng-if="locationhref">
                 <p class="item-heading">{{ 'mm.settings.locationhref' | translate}}</p>
                 <p>{{ locationhref }}</p>
-            </li>
+            </li> -->
             <li class="item item-text-wrap" ng-if="appready">
                 <p class="item-heading">{{ 'mm.settings.appready' | translate}}</p>
                 <p>{{ appready | translate }}</p>
             </li>
-            <li class="item item-text-wrap" ng-if="devicetype">
+            <!-- <li class="item item-text-wrap" ng-if="devicetype">
                 <p class="item-heading">{{ 'mm.settings.displayformat' | translate}}</p>
                 <p>{{ devicetype | translate }}</p>
-            </li>
+            </li> -->
             <li class="item item-text-wrap" ng-if="deviceos">
                 <p class="item-heading">{{ 'mm.settings.deviceos' | translate}}</p>
                 <p>{{ deviceos | translate }}</p>
@@ -62,7 +62,7 @@
                 <p class="item-heading">{{ 'mm.settings.devicewebworkers' | translate}}</p>
                 <p>{{ devicewebworkers | translate }}</p>
             </li>
-            <li class="item item-text-wrap" ng-if="device && device.cordova">
+            <!-- <li class="item item-text-wrap" ng-if="device && device.cordova">
                 <p class="item-heading">{{ 'mm.settings.cordovaversion' | translate}}</p>
                 <p>{{ device.cordova }}</p>
             </li>
@@ -89,7 +89,7 @@
             <li class="item item-text-wrap" ng-if="storagetype">
                 <p class="item-heading">{{ 'mm.settings.storagetype' | translate}}</p>
                 <p>{{ storagetype }}</p>
-            </li>
+            </li>-->
             <li class="item item-text-wrap" ng-if="localnotifavailable">
                 <p class="item-heading">{{ 'mm.settings.localnotifavailable' | translate}}</p>
                 <p>{{ localnotifavailable | translate }}</p>

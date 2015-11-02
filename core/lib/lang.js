@@ -59,7 +59,7 @@ angular.module('mm.core')
             return $mmConfig.get('default_lang').then(function(language) {
                 return language;
             }, function() {
-                return 'en';
+                return 'vn';
             });
         }
 

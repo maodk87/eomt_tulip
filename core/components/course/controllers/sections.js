@@ -27,7 +27,7 @@ angular.module('mm.core.course')
 
     $scope.courseid = courseid;
     $scope.fullname = course.fullname;
-
+    
     function loadSections(refresh) {
         return $mmCourse.getSections(courseid, refresh).then(function(sections) {
             $translate('mm.course.showall').then(function(str) {
