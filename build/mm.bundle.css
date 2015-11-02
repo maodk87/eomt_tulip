@@ -9443,6 +9443,28 @@ img.mm-media-adapt-width {
 .has-side-menu-header {
   top: 80px; }
 
+.mma-messages-date {
+  text-align: center;
+  margin-top: 10px; }
+
+.mma-messages-input-inset {
+  padding-top: 0;
+  padding-left: 0;
+  padding-bottom: 0; }
+
+.mma-messages-footer-note {
+  color: #444;
+  font-size: 14px;
+  text-align: center;
+  margin: 0;
+  width: 100%; }
+
+.button.mma-messages-clear-search {
+  top: 0px; }
+
+.mma-messages-discussion-container {
+  padding-bottom: 15px; }
+
 input.mma-files-picker {
   position: absolute;
   top: 0;
@@ -9525,28 +9547,6 @@ input.mma-files-picker {
   .mma-grades-table .leveleven {
     background-color: #fff; }
 
-.mma-messages-date {
-  text-align: center;
-  margin-top: 10px; }
-
-.mma-messages-input-inset {
-  padding-top: 0;
-  padding-left: 0;
-  padding-bottom: 0; }
-
-.mma-messages-footer-note {
-  color: #444;
-  font-size: 14px;
-  text-align: center;
-  margin: 0;
-  width: 100%; }
-
-.button.mma-messages-clear-search {
-  top: 0px; }
-
-.mma-messages-discussion-container {
-  padding-bottom: 15px; }
-
 .mma-chat-notice {
   text-align: center;
   margin-top: 10px; }
@@ -9562,23 +9562,6 @@ input.mma-files-picker {
   text-align: center;
   margin: 0;
   width: 100%; }
-
-.mma-mod_choice-user {
-  position: relative;
-  display: inline-block; }
-  .mma-mod_choice-user img {
-    position: absolute;
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    left: 50%;
-    margin-left: -20px; }
-  .mma-mod_choice-user p {
-    display: inline-block;
-    padding-top: 50px; }
-
-.mma-mod_choice-graph-horizontal {
-  height: 50px; }
 
 .mma-forum-discussion-link {
   text-decoration: none; }
@@ -9606,6 +9589,23 @@ input.mma-files-picker {
   position: relative; }
   .mma-imscp-iframe-container .iframe-wrapper {
     position: absolute; }
+
+.mma-mod_choice-user {
+  position: relative;
+  display: inline-block; }
+  .mma-mod_choice-user img {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    left: 50%;
+    margin-left: -20px; }
+  .mma-mod_choice-user p {
+    display: inline-block;
+    padding-top: 50px; }
+
+.mma-mod_choice-graph-horizontal {
+  height: 50px; }
 
 .mma-mod_survey-darkbg {
   background-color: #f5f5f5; }

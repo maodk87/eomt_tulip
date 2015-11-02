@@ -592,8 +592,8 @@
     "mma.notes.personalnotes": "Annotazioni personali",
     "mma.notes.publishstate": "Contesto",
     "mma.notes.sitenotes": "Annotazioni del sito",
+    "mma.participants.participants": "Partecipanti",
     "mma.notifications.errorgetnotifications": "Si è verificato un errore durante la ricezione delle notifiche.",
     "mma.notifications.notifications": "Notifiche",
-    "mma.notifications.therearentnotificationsyet": "Non ci sono notifiche",
-    "mma.participants.participants": "Partecipanti"
+    "mma.notifications.therearentnotificationsyet": "Non ci sono notifiche"
 }

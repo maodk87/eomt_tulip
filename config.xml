@@ -3,8 +3,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.eomt.tulipschool"
-        versionCode = "2015"
-        version   = "1.4">
+        versionCode = "2015.1"
+        version   = "1.5">
     <name>Tulip Preschools (EOMT)</name>
 
     <description>
