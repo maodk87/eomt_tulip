@@ -9563,6 +9563,23 @@ input.mma-files-picker {
   margin: 0;
   width: 100%; }
 
+.mma-mod_choice-user {
+  position: relative;
+  display: inline-block; }
+  .mma-mod_choice-user img {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    left: 50%;
+    margin-left: -20px; }
+  .mma-mod_choice-user p {
+    display: inline-block;
+    padding-top: 50px; }
+
+.mma-mod_choice-graph-horizontal {
+  height: 50px; }
+
 .mma-forum-discussion-link {
   text-decoration: none; }
 
@@ -9607,23 +9624,6 @@ select.mma-mod_survey-select {
   max-width: 100%; }
   select.mma-mod_survey-select .mma-mod_survey-defaultoption {
     display: none; }
-
-.mma-mod_choice-user {
-  position: relative;
-  display: inline-block; }
-  .mma-mod_choice-user img {
-    position: absolute;
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    left: 50%;
-    margin-left: -20px; }
-  .mma-mod_choice-user p {
-    display: inline-block;
-    padding-top: 50px; }
-
-.mma-mod_choice-graph-horizontal {
-  height: 50px; }
 
 .button.active,
 .button.activated {
