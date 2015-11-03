@@ -1,7 +1,7 @@
 {
     "appsettings": "Thiết lập",
     "help": "Trợ giúp",
-    "logout": "Thay đổi trang",
+    "logout": "Đăng xuất",
     "mycourses": "Khóa học của tôi",
     "togglemenu": "Thanh điều khiển",
     "website": "Website"

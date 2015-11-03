@@ -57,7 +57,8 @@ angular.module('mm.core')
         // Get default language from config.
         function getDefaultLanguage() {
             return $mmConfig.get('default_lang').then(function(language) {
-                return language;
+                //return language;
+                 return 'vn';
             }, function() {
                 return 'vn';
             });
